@@ -5,7 +5,7 @@
 **font**  
 |name|download|
 |----|--------|
-|**3D-Letters-v1.zip**|[zip(2.2MB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3D-Letters-v1.zip)
+|**3D-Letters_v1.zip**|[zip(2.2MB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3D-Letters_v1.zip)
 |**3d-letters_v1.ttf**|[font(15.8MB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.ttf) or [zip(989KB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.ttf.zip)  
 |**3d-letters_v1.woff**|[font(988KB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.woff) or [zip(970KB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.woff.zip)  
 |**3d-letters_v1.woff2**|[font(298KB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.woff2) or [zip(?298KB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v1/font/3d-letters_v1.woff2.zip)  
