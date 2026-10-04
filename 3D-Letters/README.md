@@ -24,4 +24,4 @@
 **svg**  
 |name|download|
 |----|--------|
-|**3D-Letters-svg_v2.zip**|[zip(8.23MB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v2/svg/3D-Letters-svg_v2)
+|**3D-Letters-svg_v2.zip**|[zip(8.23MB)](https://raw.githubusercontent.com/Littlemeow0122/my-font/refs/heads/main/3D-Letters/v2/svg/3D-Letters-svg_v2.zip)
